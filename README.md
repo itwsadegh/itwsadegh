@@ -1,88 +1,96 @@
 # Hello, World! 👋 Sadegh here!
 
-I'm a **Machine Learning and Telecommunications Engineer** with dual MSc degrees and practical experience in computer vision, NLP, and network systems. I’m passionate about building scalable AI solutions—from deep learning for images and text to deploying models on cloud infrastructure and edge devices. I also enjoy sharing knowledge and contributing to open source.
+I'm a passionate engineer who loves blending AI, Machine Learning, and Telecommunications to create innovative solutions for real-world problems—from deep learning on edge devices to NLP and computer vision, both in research and production.
 
 ---
 
-## 🎓 My Academic Journey
+## 🎓 My Academic Journey:
 
-- **M.Sc. in Communication Engineering**, *Politecnico di Torino* (2023 – Now)  
-  *Thesis: DNN Reconfiguration for Dynamic Offloading at the Edge*  
-  GPA: 25/30
+🔹 **M.Sc. in Communication Engineering**  
+*Politecnico di Torino*  
+*Thesis: DNN Reconfiguration for Dynamic Offloading at the Edge* (2023 – Now)
 
-- **M.Sc. in Telecommunication Systems**, *Shiraz University* (2019 – 2022)  
-  *Thesis: Throughput Improvement of Broadcast Routing Protocols at Mobile Ad Hoc Networks*  
-  GPA: 16.89/20
+🔸 **M.Sc. in Telecommunication Systems**  
+*Shiraz University*  
+*Thesis: Throughput Improvement of Broadcast Routing Protocols at Mobile Ad Hoc Networks* (2019 – 2022)
 
-
----
-
-## 🛠️ Technical Skills
-
-- **Programming:** Python, MATLAB, C++, SQL, Bash, Git
-- **ML & Frameworks:** Deep learning (YOLO, DNNs), TensorFlow, PyTorch, scikit-learn, Keras, Hugging Face, Model optimization (TensorRT, pruning, quantization)
-- **Cloud & MLOps:** AWS SageMaker Canvas, AWS Lambda, Cloud ML pipelines
-- **Data Science:** Feature engineering, Data preprocessing, Statistical analysis, Data visualization (Power BI, matplotlib, seaborn)
-- **Computer Vision:** YOLO, image processing, digital twins
-- **Telecom & Networking:** NS3, Wireshark, wireless comm. (MIMO, NOMA), network simulation, Poisson processes, Markov chains
-- **NLP:** Text classification, DistilBERT, sentiment & behavior analysis
-- **Other Tools:** LaTeX, Power BI, AutoCAD, LabVIEW, CST, DIAlux
+🔸 **B.Sc. in Electrical Engineering – Telecommunication**  
+*Shiraz University* (2013 – 2018)
 
 ---
 
-## 🚀 Notable Projects
+## 💻 Experience:
 
-- **DNN Reconfiguration for Dynamic Offloading at the Edge (2025):**  
-  Proposed optimized offloading pipeline for real-time computer vision at the edge, reducing inference latency by 35% and energy use by 25%; increased throughput by 89% with YOLO/TensorRT on PyTorch.
+🚀 **Applied ML & Research:**  
+- Developed scalable AI solutions across computer vision, NLP, and telecom  
+- Specialized in deploying robust ML pipelines to AWS and cloud environments
 
-- **MAGELLAN: ML-Assisted Optical Amplifier Digital Twin (2024):**  
-  Built and processed 1M+ EDFA spectra, deployed ensemble models (R²=0.90) with SageMaker Canvas, automated retraining with AWS Lambda.
+🧑‍🏫 **Teaching & Mentorship:**  
+- Lecturer in Mathematical Engineering & Statistics (Fazel Institute, 2019)  
+- Teaching Assistant for large classes at Shiraz University
 
-- **Reddit Behavior Modeling via ML and NLP (2024):**  
-  Analyzed 1.4M Reddit comments, achieved 87.5% AUC using DistilBERT and clustering/statistical analysis.
-
-- **Efficient AI Computing in Cloud (2024):**  
-  Compressed MNIST DNN from 98.8MB to 4.8MB and sped up inference 3×, keeping 98.6% accuracy and enabling cloud deployment.
-
-- **Classification & Clustering Network Flows (2023):**  
-  Classified 500K+ network flows, improving domain prediction accuracy by 15% and revealing actionable usage patterns.
-
-- **Facial Recognition System with ML (2020):**  
-  Built a high-accuracy pipeline with dimensionality reduction and multi-model classification.
+🌍 **Open Source & Hackathons:**  
+- Finalist, Politecnico di Torino Hackathon 2023 (AI-powered network traffic analyzer)  
+- Contributed to Python ML and telecom simulation tools on GitHub
 
 ---
 
-## 🎓 Teaching Experience
+## 🚀 Technical Skills:
 
-- **Lecturer, Fazel Institute of Higher Education (2019):**  
-  Taught core courses in Mathematical Engineering and Statistics & Probability (60+ students).
-
-- **Teaching Assistant, Shiraz University (2015–2016):**  
-  Supported large classes in Engineering Statistics, Probability, and Mathematics.
-
----
-
-## 🌍 Languages
-
-- **Persian:** Native
-- **English:** Fluent (TOEFL iBT: 93/120)
-- **Italian:** A2
+🐍 Python | 💡 MATLAB | 🛠️ C/C++ | 🛢️ SQL | 🐧 Bash  
+🔥 PyTorch | 🧠 TensorFlow | 🧬 Keras | 🤗 Hugging Face | 🟦 scikit-learn  
+☁️ AWS SageMaker | ☁️ AWS Lambda | 🔄 Cloud ML Pipelines  
+📊 Power BI | 📈 matplotlib | 🖼️ seaborn | 📃 LaTeX | 📦 Git  
+👁️ YOLO | 🖼️ Image Processing | 🛰️ Digital Twins  
+🌐 NS3 | 🛰️ Wireshark | 📶 MIMO | 🔗 NOMA | 📡 Network Simulation  
+📖 DistilBERT | 🧩 NLP | 🧹 Feature Engineering  
 
 ---
 
-## 🌱 Extracurricular & Community
+## 🌟 Noteworthy Projects:
 
-- **Hackathon Finalist:** Politecnico di Torino 2023 (AI-powered network traffic analyzer)
-- **Open Source Contributor:** Python ML utilities, telecom simulation tools (reduced runtime errors by 30%)
-- **Science Outreach:** Organized AI/data science workshops for high school students
+👁️ **DNN Reconfiguration for Dynamic Offloading at the Edge:**  
+Reduced inference latency by 35% and mobile energy use by 25% with optimized computer vision pipelines (YOLO, TensorRT/PyTorch).
+
+🛰️ **MAGELLAN: ML-Assisted Optical Amplifier Digital Twin:**  
+Processed 1M+ EDFA spectra, deployed ensemble models (R² = 0.90) on AWS, with automated real-time retraining.
+
+🤖 **Reddit Behavior Modeling via ML/NLP:**  
+Analyzed 1.4M Reddit comments, reaching 87.5% AUC with DistilBERT and clustering/statistical analysis.
+
+🚗 **Efficient AI in the Cloud:**  
+Compressed DNN models by 95%, tripling inference speed with minimal accuracy loss.
 
 ---
 
-## 📫 Contact
+## 🔥 Passionate about:
 
-- [Email](mailto:sadegh.jamishi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sadegh-jamishi) | [GitHub](https://github.com/itwsadegh) | +39 351-865-1544
+🤖 AI for smarter networks, computer vision, and NLP  
+📡 Innovations in telecom and signal processing  
+🧠 Learning, teaching, and community outreach  
+🌍 International teamwork and open-source collaboration
 
 ---
 
-*Let’s build something great together—reach out for collaboration, open-source projects, or just to connect!*
+## 🏆 Achievements:
 
+📜 Published research on ML for telecom and edge computing  
+🏅 Finalist at Politecnico di Torino’s 2023 Hackathon  
+🎓 Organized AI workshops for high school students
+
+---
+
+## ⚡ Beyond Tech:
+
+🎸 Music Lover | 📚 Science Outreach Volunteer | 🌎 Multilingual Explorer  
+⚽ Football Fan | 🎮 Gamer | 🎥 Film Enthusiast | ♟️ Chess Player
+
+---
+
+## 📩 Reach Out Anytime!
+
+📧 sadegh.jamishi@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/sadegh-jamishi)  
+[GitHub](https://github.com/itwsadegh)  
+
+**Let’s connect, collaborate, and innovate together! 🚀**
