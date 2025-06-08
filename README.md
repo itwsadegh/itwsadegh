@@ -2,7 +2,6 @@
 
 I'm a passionate engineer who loves blending AI, Machine Learning, and Telecommunications to create innovative solutions for real-world problems—from deep learning on edge devices to NLP and computer vision, both in research and production.
 
----
 
 ## 🎓 My Academic Journey:
 
@@ -17,7 +16,7 @@ I'm a passionate engineer who loves blending AI, Machine Learning, and Telecommu
 🔸 **B.Sc. in Electrical Engineering – Telecommunication**  
 *Shiraz University* (2013 – 2018)
 
----
+
 
 ## 💻 Experience:
 
@@ -33,7 +32,7 @@ I'm a passionate engineer who loves blending AI, Machine Learning, and Telecommu
 - Finalist, Politecnico di Torino Hackathon 2023 (AI-powered network traffic analyzer)  
 - Contributed to Python ML and telecom simulation tools on GitHub
 
----
+
 
 ## 🚀 Technical Skills:
 
@@ -45,7 +44,7 @@ I'm a passionate engineer who loves blending AI, Machine Learning, and Telecommu
 🌐 NS3 | 🛰️ Wireshark | 📶 MIMO | 🔗 NOMA | 📡 Network Simulation  
 📖 DistilBERT | 🧩 NLP | 🧹 Feature Engineering  
 
----
+
 
 ## 🌟 Noteworthy Projects:
 
@@ -61,7 +60,7 @@ Analyzed 1.4M Reddit comments, reaching 87.5% AUC with DistilBERT and clustering
 🚗 **Efficient AI in the Cloud:**  
 Compressed DNN models by 95%, tripling inference speed with minimal accuracy loss.
 
----
+
 
 ## 🔥 Passionate about:
 
@@ -70,7 +69,7 @@ Compressed DNN models by 95%, tripling inference speed with minimal accuracy los
 🧠 Learning, teaching, and community outreach  
 🌍 International teamwork and open-source collaboration
 
----
+
 
 ## 🏆 Achievements:
 
@@ -78,7 +77,7 @@ Compressed DNN models by 95%, tripling inference speed with minimal accuracy los
 🏅 Finalist at Politecnico di Torino’s 2023 Hackathon  
 🎓 Organized AI workshops for high school students
 
----
+
 
 ## ⚡ Beyond Tech:
 
